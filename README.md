@@ -3,10 +3,10 @@
 # RachaAí - IHC & UX
 
 ## Nome
-Pedro Morais Hilbert
-Letícia Petrina Machado Silva
-Daniel de Almeida Vieira
-João Augusto Miranda Viana de Souza
+Pedro Morais Hilbert,
+Letícia Petrina Machado Silva,
+Daniel de Almeida Vieira,
+João Augusto Miranda Viana de Souza,
 Luana Xaviel Monteiro
 
 ---
