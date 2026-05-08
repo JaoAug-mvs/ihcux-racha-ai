@@ -1,13 +1,17 @@
 # ihcux-racha-ai
 
-# 💸 RachaAí - IHC & UX
+# RachaAí - IHC & UX
 
-## 👤 Nome
+## Nome
 Pedro Morais Hilbert
+Letícia Petrina Machado Silva
+Daniel de Almeida Vieira
+João Augusto Miranda Viana de Souza
+Luana Xaviel Monteiro
 
 ---
 
-## 🎯 Persona
+## Persona
 O aplicativo foi projetado para **estudantes que moram em repúblicas** ou dividem apartamento com amigos.
 
 Esses usuários frequentemente precisam dividir contas como:
@@ -23,7 +27,7 @@ Eles enfrentam problemas como:
 
 ---
 
-## 🧠 Heurística de Nielsen em foco
+## Heurística de Nielsen em foco
 **Visibilidade do status do sistema**
 
 O protótipo prioriza mostrar claramente:
@@ -35,7 +39,7 @@ Isso reduz a ansiedade do usuário e evita confusão.
 
 ---
 
-## 🔄 Fluxo de Tarefa
+## Fluxo de Tarefa
 ### Cadastro de uma conta de luz e divisão entre 3 pessoas:
 
 1. O usuário acessa o grupo "Casa"
@@ -52,31 +56,8 @@ Isso reduz a ansiedade do usuário e evita confusão.
 
 ---
 
-## 💡 Objetivo do Aplicativo
+## Objetivo do Aplicativo
 Facilitar a divisão de contas entre pessoas, trazendo:
 - Clareza
 - Organização
 - Menos conflitos
-
----
-
-## ⭐ Desafio Extra (Opcional)
-
-### ⚠️ Fluxo de Disputa
-Caso um usuário cadastre um valor errado:
-- Outro usuário pode clicar no gasto
-- Selecionar **"Reportar erro"**
-- Enviar uma solicitação de revisão
-- O grupo é notificado para confirmar a alteração
-
----
-
-### 📊 Gráfico Simples
-O aplicativo pode apresentar um **relatório mensal**, mostrando:
-- Gastos com mercado
-- Contas fixas
-- Lazer
-
-Isso ajuda os usuários a entenderem onde estão gastando mais.
-
----
